@@ -7,3 +7,10 @@ const point = 250;
 console.log(age);
 console.log(year);
 console.log(point);
+
+// data type
+
+//Number
+//string
+//bollean
+//null, undefined, object
